@@ -24,3 +24,5 @@ node_modules
 # IntelliJ files
 .idea
 
+# Visual studio code
+.vscode
